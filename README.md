@@ -8,8 +8,6 @@ Date: 2020-02-16
 
 ### Objective
 
-Integrar la información relacionada a los lanzamientos de telenovelas de 2017 a 2020 y evaluar el ejercicio por medio de un conjunto de métricas de desempeño definidas (KPI).
-
 ### Description
 
 ----
@@ -18,7 +16,13 @@ Integrar la información relacionada a los lanzamientos de telenovelas de 2017 a
 
 ----
 
-## AWS permissions
+## AWS infrastructure
+
+### Sagemaker
+
+### S3
+
+### Permission and roles
 
 ----
 
